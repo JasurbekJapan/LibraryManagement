@@ -1,0 +1,12 @@
+D:\LibraryManagement\src\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+D:\LibraryManagement\src\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+D:\LibraryManagement\src\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.sourcelink.json
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\LibraryManagement\src\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll

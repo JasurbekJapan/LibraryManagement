@@ -1,0 +1,16 @@
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.deps.json
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.dll
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.pdb
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Domain.dll
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.AssemblyInfo.cs
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.sourcelink.json
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryM.7458E269.Up2Date
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.dll
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\refint\LibraryManagement.Infrastructure.dll
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.pdb
+D:\LibraryManagement\src\LibraryManagement.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.dll
